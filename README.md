@@ -23,9 +23,9 @@
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white"/></a>&nbsp 
-
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/vim-019733?style=flat-square&logo=vim&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/vim-019733?style=flat-square&logo=vim&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/vsCode-019733?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
