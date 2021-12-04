@@ -28,9 +28,6 @@
     <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
-
-
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://keravi.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://keravi.tistory.com"/></a>&nbsp
