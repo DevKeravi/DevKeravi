@@ -32,8 +32,8 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://keravi.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://keravi.tistory.com"/></a>&nbsp
-  <a href="https://cmkrosp@gmail.com"><img src="https://img.shields.io/badge/cmkrosp@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cmkrosp@gmail.com"/></a>
-   <a href="http://devkeravi.site"><img src="https://img.shields.io/badge/Homepage-41BDF5?style=flat-square&logo=HomeAssistant&logoColor=white&link=http://devkeravi.site"/></a>
+  <a href="https://keravi.tistory.com/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=http://keravi.tistory.com"/></a>&nbsp
+  <a href="https://cmkrosp@gmail.com"  target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/cmkrosp@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cmkrosp@gmail.com"/></a>
+   <a href="http://devkeravi.site"  target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Homepage-41BDF5?style=flat-square&logo=HomeAssistant&logoColor=white&link=http://devkeravi.site"/></a>
 </p>
 <br>
